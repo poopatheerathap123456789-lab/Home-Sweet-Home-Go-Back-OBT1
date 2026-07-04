@@ -1,0 +1,35 @@
+{
+  "Textures": {
+    "C": "HSHO/Content/Game/Character/SkeletonMeshes/Re_Survivor/Jean/Texture/T_Zbing_Default_Hair_C.T_Zbing_Default_Hair_C",
+    "PM_Diffuse": "HSHO/Content/Game/Character/SkeletonMeshes/Re_Survivor/Jean/Texture/T_Jean_Default_Hair_D.T_Jean_Default_Hair_D",
+    "T_Zbing_Default_Hair_C": "HSHO/Content/Game/Character/SkeletonMeshes/Re_Survivor/Jean/Texture/T_Zbing_Default_Hair_C.T_Zbing_Default_Hair_C",
+    "D": "HSHO/Content/Game/Character/SkeletonMeshes/Re_Survivor/Jean/Texture/T_Jean_Default_Hair_D.T_Jean_Default_Hair_D",
+    "T_Jean_Default_Hair_D": "HSHO/Content/Game/Character/SkeletonMeshes/Re_Survivor/Jean/Texture/T_Jean_Default_Hair_D.T_Jean_Default_Hair_D",
+    "N": "HSHO/Content/Game/Character/SkeletonMeshes/Re_Survivor/Jean/Texture/T_Zbing_Default_Hair_N.T_Zbing_Default_Hair_N",
+    "PM_Normals": "HSHO/Content/Game/Character/SkeletonMeshes/Re_Survivor/Jean/Texture/T_Zbing_Default_Hair_N.T_Zbing_Default_Hair_N",
+    "T_Zbing_Default_Hair_N": "HSHO/Content/Game/Character/SkeletonMeshes/Re_Survivor/Jean/Texture/T_Zbing_Default_Hair_N.T_Zbing_Default_Hair_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Roughness": -1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

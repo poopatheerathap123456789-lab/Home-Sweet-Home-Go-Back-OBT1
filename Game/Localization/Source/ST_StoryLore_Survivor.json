@@ -1,0 +1,373 @@
+{
+  "$type": "UAssetAPI.UAsset, UAssetAPI",
+  "Info": "Serialized with UAssetAPI 1.0.2.0 (a46c6e7)",
+  "NameMap": [
+    "/Game/Localization/Source/ST_StoryLore_Survivor",
+    "/Script/CoreUObject",
+    "/Script/Engine",
+    "Class",
+    "Default__StringTable",
+    "None",
+    "Package",
+    "ST_StoryLore_Survivor",
+    "StringTable"
+  ],
+  "CustomSerializationFlags": "None",
+  "UseSeparateBulkDataFiles": true,
+  "IsUnversioned": true,
+  "FileVersionLicenseeUE": 0,
+  "ObjectVersion": "VER_UE4_CORRECT_LICENSEE_FLAG",
+  "ObjectVersionUE5": "UNKNOWN",
+  "CustomVersionContainer": [
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{375EC13C-06E4-48FB-B500-84F0262A717E}",
+      "FriendlyName": "FCoreObjectVersion",
+      "Version": 4,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{E4B068ED-F494-42E9-A231-DA0B2E46BB41}",
+      "FriendlyName": "FEditorObjectVersion",
+      "Version": 40,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{CFFC743F-43B0-4480-9391-14DF171D2073}",
+      "FriendlyName": "FFrameworkObjectVersion",
+      "Version": 37,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{7B5AE74C-D270-4C10-A958-57980B212A5A}",
+      "FriendlyName": "FSequencerObjectVersion",
+      "Version": 13,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{29E575DD-E0A3-4627-9D10-D276232CDCEA}",
+      "FriendlyName": "FAnimPhysObjectVersion",
+      "Version": 17,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{601D1886-AC64-4F84-AA16-D3DE0DEAC7D6}",
+      "FriendlyName": "FFortniteMainBranchObjectVersion",
+      "Version": 47,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC}",
+      "FriendlyName": "FNiagaraObjectVersion",
+      "Version": 1,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{717F9EE7-E9B0-493A-88B3-91321B388107}",
+      "FriendlyName": "FAssetRegistryVersion",
+      "Version": 17,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{9C54D522-A826-4FBE-9421-074661B482D0}",
+      "FriendlyName": "FReleaseObjectVersion",
+      "Version": 43,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{E7086368-6B23-4C58-8439-1B7016265E91}",
+      "FriendlyName": "FFortniteReleaseBranchCustomObjectVersion",
+      "Version": 1,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{D89B5E42-24BD-4D46-8412-ACA8DF641779}",
+      "FriendlyName": "FUE5ReleaseStreamObjectVersion",
+      "Version": 0,
+      "IsSerialized": false
+    },
+    {
+      "$type": "UAssetAPI.CustomVersion, UAssetAPI",
+      "Name": null,
+      "Key": "{FCF57AFA-5076-4283-B9A9-E658FFA02D32}",
+      "FriendlyName": "FNiagaraCustomVersion",
+      "Version": 68,
+      "IsSerialized": false
+    }
+  ],
+  "SoftObjectPathList": null,
+  "GatherableTextData": null,
+  "Exports": [
+    {
+      "$type": "UAssetAPI.ExportTypes.StringTableExport, UAssetAPI",
+      "Table": {
+        "TableNamespace": "ST_StoryLore_Survivor",
+        "Value": [
+            [
+                "Survivor_Story_Jane_Lore",
+                "Jane is a freelance writer and Tim’s wife. She was lured into the Niwarn by Invoker Chai. Chai needed the souls of those who've broken The Five Precepts of Buddhism and died on the day of the eclipse to perform the ‘Soul Eternity’ ritual. Jane had broken some of the Precepts and thus was targeted by Chai. He kidnapped and imprisoned her, waiting for the day of the eclipse to kill her."
+            ],
+            [
+                "Survivor_Story_SeGuard_Lore",
+                "Uncle Pae is a kind security guard who loves helping other people. He often sets aside personal matters to help others and does many volunteer works on his days off. Because of his generosity, he is beloved and adored by everyone. Uncle Pae was returning home from work and coincidentally took the bus that was targeted by dark occult users. Thus, he fell into Niwarn along with the other passengers."
+            ],
+            [
+                "Survivor_Story_Jane_Name",
+                "Jane"
+            ],
+            [
+                "Survivor_Story_TouristJap_Name",
+                "Yuri"
+            ],
+            [
+                "Survivor_Story_TouristJap_Lore",
+                "Yuri is a Thai-Japanese blogger who loves the supernatural, which led her to visit many mysterious and haunted places. Her passion for the paranormal landed her in trouble when an evil spirit started to haunt her. Though Yuri had asked for help from different spiritual mediums in various countries, they were not able to exorcise the spirit. Her Thai mother recommended a powerful monk in Thailand who may be able to help, but, unfortunately, Yuri was unable to find the monk after traveling to Thailand.. On her way back from the search, Yuri was caught up in an accident that caused the bus to fall into Niwarn."
+            ],
+            [
+                "Survivor_Story_SeGuard_Name",
+                "Uncle Pae"
+            ],
+            [
+                "Survivor_Story_StudentF_Lore",
+                "Nipa is a middle school student from an all-girls school near the Memorial Bridge. She’s smart and talented in many ways but has a fragile body. When she was younger, she almost drowned but her older brother saved her in the nick of time. Because of that close brush with death, Nipa gained a heightened sixth sense that allows her to perceive malevolent spirits. Her talent made her interesting, and thus a target of many dark occult users who conspire to bring her into the Hindrance. They successfully casued the bus to fall into the river and thus sentencing Nipa to life in the Hindrance."
+            ],
+            [
+                "Survivor_Story_StudentF_Name",
+                "Nipa"
+            ],
+            [
+                "Survivor_Story_Tim_Lore",
+                "Tim is an office worker and Jane’s husband. He had been searching for Jane in the Hindrance. Following his wife’s mysterious disappearance, Tim fell into depression and sought comfort in alcohol to the point he got suspended from his job. He accidentally entered the Hindrance one day and found his wife. Unbeknownst to him, his reunion was planned by Invoker Chai who needed the soul of those who broke The Five Precepts of Buddhism and died on the day of the eclipse to perform the ‘Soul Eternity’ ritual."
+            ],
+            [
+                "Survivor_Story_Tim_Name",
+                "Tim"
+            ],
+            [
+                "Survivor_Story_Vanz_Lore",
+                "Ong is the leader of a motorcycle gang near the Memorial Bridge. He's a frenetic and fearless man, believing that he is protected from death by the powerful incantation tattoo he received from a famous dark occult user. Unafraid of death, Ong drives at insane speeds and beats every illegal races earning him respect amongst the gangsters. When he found out that one of his trophy women has a crush on Nipa’s older brother, Ong went to challenge him in a motorcycle race. In a twist of fate, Ong lost. He couldn't accept the loss and turned his aggression to Nipa instead. He was fighting with her brother on the bus when the accident happened causing Ong to fall into the Hindrance along with Nipa and the others."
+            ],
+            [
+                "Survivor_Story_Vanz_Name",
+                "Ong"
+            ],
+            [
+                "Survivor_Story_Aof_Name",
+                "Aof"
+            ],
+            [
+                "Survivor_Story_Aof_Lore",
+                "Aof is a handsome young medical student who possesses a special power that allows him to see and subdue ghosts. He uses his powers as a cyber exorcist to help people and earn money at the same time. He’s a serious and straightforward person but also diligent and sincere. At first, Aof hated the special power he had but his feelings towards it started to change when he met Jean."
+            ],
+            [
+                "Survivor_Story_zBing_Lore",
+                "Ping is an orphan who grew up with her sick, blind grandmother. She earned money from gaming competitions to fund the medical bills and became a successful streamer.  After the death of her grandmother, a small black cat from the funeral followed her home. Ping adopted the kitty and they soon became inseparable. One day she was brutally attacked by a group of wild dogs. Her cat defended her at the cost of its own life. Devastated, Ping gave her a burial at the temple. The same night, her cat once again followed her home. Ping disregarded the anomaly and was overjoyed to have her back. Soon after, famous streamers were killed in 'The Streamer Murders' incident. Ping was also assaulted by the killer but her cat once again saved her. Ping ran and boarded a bus heading towards the police's station. She never made it to her destination as the bus capsized and took her to the Hindrance.\n"
+            ],
+            [
+                "Survivor_Story_zBing_Name",
+                "zBing (Ping)"
+            ],
+            [
+                "Survivor_Story_Don_Name",
+                "Don"
+            ],
+            [
+                "Survivor_Story_Mewmew_Name",
+                "Mewmew"
+            ],
+            [
+                "Survivor_Story_Manop_Name",
+                "Manop"
+            ],
+            [
+                "Survivor_Story_Jessi_Name",
+                "Jessi"
+            ],
+            [
+                "Survivor_Story_Aisha_Name",
+                "Aisha"
+            ],
+            [
+                "Survivor_Story_Tida_Name",
+                "Tida"
+            ],
+            [
+                "Survivor_Story_Zico_Name",
+                "Zico Barreto"
+            ],
+            [
+                "Survivor_Story_TimAwake_Name",
+                "Tim Awake"
+            ],
+            [
+                "Survivor_Story_Gwyneth_Name",
+                "Gwyneth"
+            ],
+            [
+                "Survivor_Story_Stephen_Name",
+                "Stephen"
+            ],
+            [
+                "Survivor_Story_Jean_Name",
+                "Jean"
+            ],
+            [
+                "Survivor_Story_Jean_Lore",
+                "Jidapa Wareearporn, also known as 'Jean', is one of the main characters of the show 'Let's fight Ghost'. She helps her boyfriend Aof with her Supernatural Abilities."
+            ],
+            [
+                "Survivor_Story_Miki_Name",
+                "Miki"
+            ],
+            [
+                "Survivor_Story_Miki_Lore",
+                "MikiHanaseki, also known as 'Miki', is one of the main characters of HOS. She is come from other world."
+            ]
+        ]
+      },
+      "Data": [],
+      "ObjectGuid": null,
+      "SerializationControl": "NoExtension",
+      "Operation": "None",
+      "ObjectName": "ST_StoryLore_Survivor",
+      "OuterIndex": 0,
+      "ClassIndex": -1,
+      "SuperIndex": 0,
+      "TemplateIndex": -3,
+      "ObjectFlags": "RF_Public, RF_Standalone, RF_Transactional",
+      "SerialSize": 8385,
+      "SerialOffset": 626,
+      "ScriptSerializationStartOffset": 0,
+      "ScriptSerializationEndOffset": 0,
+      "bForcedExport": false,
+      "bNotForClient": false,
+      "bNotForServer": false,
+      "PackageGuid": "{00000000-0000-0000-0000-000000000000}",
+      "IsInheritedInstance": false,
+      "PackageFlags": "PKG_None",
+      "bNotAlwaysLoadedForEditorGame": true,
+      "bIsAsset": true,
+      "GeneratePublicHash": false,
+      "SerializationBeforeSerializationDependencies": [],
+      "CreateBeforeSerializationDependencies": [],
+      "SerializationBeforeCreateDependencies": [
+        -1,
+        -3
+      ],
+      "CreateBeforeCreateDependencies": [],
+      "Extras": "AAAAAA=="
+    }
+  ],
+  "SearchableNames": null,
+  "Thumbnails": null,
+  "WorldTileInfo": null,
+  "AppendedNullBytes": 0,
+  "OtherAssetsFailedToAccess": [],
+  "LegacyFileVersion": -7,
+  "DataResourceVersion": "Invalid",
+  "DataResources": null,
+  "UsesEventDrivenLoader": true,
+  "WillSerializeNameHashes": true,
+  "Imports": [
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "StringTable",
+      "OuterIndex": -2,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Class",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "/Script/Engine",
+      "OuterIndex": 0,
+      "ClassPackage": "/Script/CoreUObject",
+      "ClassName": "Package",
+      "PackageName": null,
+      "bImportOptional": false
+    },
+    {
+      "$type": "UAssetAPI.Import, UAssetAPI",
+      "ObjectName": "Default__StringTable",
+      "OuterIndex": -2,
+      "ClassPackage": "/Script/Engine",
+      "ClassName": "StringTable",
+      "PackageName": null,
+      "bImportOptional": false
+    }
+  ],
+  "DependsMap": [
+    []
+  ],
+  "SoftPackageReferenceList": null,
+  "AssetRegistryData": "AAAAAA==",
+  "BulkData": "wYMqng==",
+  "ValorantGarbageData": null,
+  "SeaOfThievesGarbageData": null,
+  "Generations": [
+    {
+      "$type": "UAssetAPI.FGenerationInfo, UAssetAPI",
+      "ExportCount": 1,
+      "NameCount": 9
+    }
+  ],
+  "PackageGuid": "{47C9F19C-4013-E619-E82B-588F39A07371}",
+  "PersistentGuid": "{00000000-0000-0000-0000-000000000000}",
+  "RecordedEngineVersion": {
+    "$type": "UAssetAPI.FEngineVersion, UAssetAPI",
+    "Major": 0,
+    "Minor": 0,
+    "Patch": 0,
+    "Changelist": 0,
+    "Branch": null
+  },
+  "RecordedCompatibleWithEngineVersion": {
+    "$type": "UAssetAPI.FEngineVersion, UAssetAPI",
+    "Major": 0,
+    "Minor": 0,
+    "Patch": 0,
+    "Changelist": 0,
+    "Branch": null
+  },
+  "ChunkIDs": [],
+  "PackageSource": 1487260098,
+  "FolderName": "None",
+  "LocalizationId": null,
+  "SoftObjectPathsCount": 0,
+  "SoftObjectPathsOffset": 0,
+  "SearchableNamesOffset": 0,
+  "ThumbnailTableOffset": 0,
+  "SavedHash": null,
+  "CompressionFlags": 0,
+  "AdditionalPackagesToCook": [],
+  "NamesReferencedFromExportDataCount": 9,
+  "PayloadTocOffset": -1,
+  "DataResourceOffset": -1,
+  "doWeHaveAssetRegistryData": true,
+  "doWeHaveWorldTileInfo": false,
+  "PackageFlags": "PKG_FilterEditorOnly",
+  "HasUnversionedProperties": false,
+  "IsFilterEditorOnly": true
+}
